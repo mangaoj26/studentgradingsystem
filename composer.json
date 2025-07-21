@@ -1,0 +1,16 @@
+{
+    "name": "mangao/gs",
+    "description": "Basic Grading sysyem",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mangao\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mangao Y."
+        }
+    ],
+    "require": {}
+}
